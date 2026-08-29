@@ -1,5 +1,11 @@
 # render_sbgn_r
 
+> [!IMPORTANT]
+> This repository is archived. Active development has moved to
+> [cannin/render_sbgn](https://github.com/cannin/render_sbgn). The R
+> implementation is now maintained in the monorepo's
+> [r directory](https://github.com/cannin/render_sbgn/tree/main/r).
+
 SBGNML renderer implemented in R using base graphics and the xml2 parser.
 
 ## Installation
